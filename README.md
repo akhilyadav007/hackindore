@@ -7,8 +7,8 @@ Team leader:
 Shivanshi Paliwal
 
 Team members:
-Saloni Trivedi
-Aastha joshi
+Saloni Trivedi,
+Aastha joshi,
 Akhil yadav
 
 
